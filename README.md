@@ -19,3 +19,9 @@ A collection of JavaScript fundamental and problem-solving exercises to improve 
 - Strengthen problem-solving skills.
 - Understand array methods deeply.
 - Build logical thinking for DSA and interviews.
+
+## 🤝 Connect With Me
+
+💼 LinkedIn : [Mohamed Kasim](https://www.linkedin.com/in/mohamedkasim-m/)
+
+
